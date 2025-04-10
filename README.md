@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Salon Élégance</title>
+  <title>TIAMA ET ADAM'S COIFFURE</title>
   <style>
     body {
       margin: 0;
@@ -60,7 +60,7 @@
 </head>
 <body>
   <header>
-    <h1>Salon Élégance</h1>
+    <h1>TIAMA ET ADAM'S COIFFURE</h1>
     <p>Votre beauté, notre passion</p>
   </header>
   <nav>
@@ -71,15 +71,15 @@
   </nav>
   <section id="about">
     <h2>À propos</h2>
-    <p>Bienvenue au Salon Élégance, où chaque coiffure est une œuvre d'art. Notre équipe de professionnels vous accueille dans un cadre chaleureux pour révéler votre beauté naturelle.</p>
+    <p>Bienvenue chez TIAMA ET ADAM'S COIFFURE, où chaque coiffure est une œuvre d'art. Notre équipe de professionnels vous accueille dans un cadre chaleureux pour révéler votre beauté naturelle.</p>
   </section>
   <section id="services">
     <h2>Nos Services</h2>
     <div class="services">
       <div><strong>Coupe & Brushing</strong><br/>Pour femme, homme et enfant</div>
-      <div><strong>Coloration & Mèches</strong><br/>Des nuances éclatantes et sur-mesure</div>
+      <div><strong>Coloration & </strong><br/>Des nuances éclatantes et sur-mesure</div>
       <div><strong>Lissage</strong><br/>Brillance et douceur longue durée</div>
-      <div><strong>Soins capillaires</strong><br/>Des traitements profonds pour cheveux abîmés</div>
+      <div><strong></strong><br/>Des traitements profonds pour cheveux abîmés</div>
     </div>
   </section>
   <section id="gallery">
@@ -92,12 +92,12 @@
   </section>
   <section id="contact">
     <h2>Contact</h2>
-    <p>Adresse : 123 Rue de la Beauté, Paris<br/>
-    Téléphone : 01 23 45 67 89<br/>
-    Email : contact@salon-elegance.fr</p>
+    <p>Adresse : Ouagadougou, Avenue du Yatenga, secteur 37, Marcoussis, derrièrel'hôtel du Nord<br/>
+    Téléphone : +226 67 89 18 12 / 63 99 54 77<br/>
+    Email : tiamaissaka6@gmail.com</p>
   </section>
   <footer>
-    <p>&copy; 2025 Salon Élégance. Tous droits réservés.</p>
+    <p>&copy; 2025 TIAMA ET ADAM'S COIFFURE. Tous droits réservés.</p>
   </footer>
 </body>
 </html># TIAMA-ADAM-S-COIFFURE-
